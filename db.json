@@ -1,0 +1,14 @@
+{
+  "posts11": [
+    
+      {"name":"Иванова Ирина","code":1,"exper":"2 года", "urlStaff":"https://i.pinimg.com/736x/05/95/77/059577c30c43a55fd6666d1173ffaf70.jpg", "feature":"Мать двух котов и одного кактуса"}, 
+      {"name":"Васильева Наталья","code":2,"exper":"4 года", "urlStaff":"https://drasler.ru/wp-content/uploads/2019/05/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D1%84%D0%BE%D1%82%D0%BE-%D1%81%D0%B0%D0%BC%D1%8B%D1%85-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D1%85-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%B5%D0%BA-%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-2.jpg", "feature":"Не боится темноты и высоты"},
+      {"name":"Александрова Алиса","code":3,"exper":"1 год", "urlStaff":"https://drasler.ru/wp-content/uploads/2019/05/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D1%84%D0%BE%D1%82%D0%BE-%D1%81%D0%B0%D0%BC%D1%8B%D1%85-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D1%85-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%B5%D0%BA-%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-5.jpg", "feature":"С утра выпивает 2 стакана воды и делает зарядку"},
+      {"name":"Михайлова Мария","code":4,"exper":"5 года", "urlStaff":"https://drasler.ru/wp-content/uploads/2019/05/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D1%84%D0%BE%D1%82%D0%BE-%D1%81%D0%B0%D0%BC%D1%8B%D1%85-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D1%85-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%B5%D0%BA-%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-8.jpg", "feature":"Мечтает жить на необитаемом острове"},
+      {"name":"Лебедева Кристина","code":5,"exper":"2 года", "urlStaff":"https://drasler.ru/wp-content/uploads/2019/05/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-%D1%84%D0%BE%D1%82%D0%BE-%D1%81%D0%B0%D0%BC%D1%8B%D1%85-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D1%85-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%B5%D0%BA-%D0%BD%D0%B0-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-14.jpg", "feature":"В свободное время вяжет шарфы для друзей"}
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
